@@ -1,0 +1,2 @@
+Performing balance detections
+Performing single shifts and double shifts recursively

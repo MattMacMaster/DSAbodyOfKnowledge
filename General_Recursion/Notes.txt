@@ -1,0 +1,2 @@
+Practice Recursion as its a weakpoint
+-Sorts, and basic Algorithms

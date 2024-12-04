@@ -1,0 +1,7 @@
+Greedy Algorithms:
+Prims
+Kruscals
+Dijkstra's
+Bellam Ford
+
+?

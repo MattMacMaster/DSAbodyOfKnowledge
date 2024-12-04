@@ -1,0 +1,7 @@
+Sort Algorithms
+-Insertion
+-Bubble
+-Merge
+-Quicksort
+
+-Radix sort?

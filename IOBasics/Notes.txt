@@ -1,0 +1,9 @@
+Input Setup for:
+Kattis
+Leetcode
+CodeWars
+
+And General input design for each based on question type
+General
+Graphs 
+Math
